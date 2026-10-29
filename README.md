@@ -3,15 +3,10 @@
 Bem-vindo(a) ao repositório oficial do projeto de previsão de **Loss to Follow-up (LTFU)** — Abandono no tratamento de Tuberculose.
 - Projeto hospedado: [tuberculose-prediction.onrender.com](https://tuberculose-prediction.onrender.com)
 
-## Alunos no projeto:
+## Desenvolvedores do projeto:
 - **Vinícius Pereira Polli** — Líder e Desenvolvedor Principal, responsável pelas Pipelines de ML, Integrações Web e LLMs
 - **Maria Eduarda Dornelles** — Analista de Qualidade (QA), responsável pela validação das Pipelines, Integrações Web e LLMs
 - **Julia Braccini** — Pesquisa Bibliográfica e Redação do Relatório
-- **Henrique Zanfir** — Pesquisa Bibliográfica e Redação do Relatório
-- **Roberto Jacobs** — Pesquisa Bibliográfica e Redação do Relatório
-- **Eduardo Vanin** — Pesquisa Bibliográfica e Redação do Relatório
-
-- **Universidade** - Atitus Educação
 ---
 
 ## Introdução ao Projeto
