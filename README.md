@@ -1,4 +1,4 @@
-# Tuberculosis LTFU Prediction — Relatório de Modelagem e Produção - Versão Final
+# Tuberculosis LTFU Prediction — Relatório de Modelagem e Produção
 
 Bem-vindo(a) ao repositório oficial do projeto de previsão de **Loss to Follow-up (LTFU)** — Abandono no tratamento de Tuberculose.
 - Projeto hospedado: [tuberculose-prediction.onrender.com](https://tuberculose-prediction.onrender.com)
